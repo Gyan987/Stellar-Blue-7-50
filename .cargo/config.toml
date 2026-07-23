@@ -1,5 +1,5 @@
 [target.wasm32-unknown-unknown]
 rustflags = [
     "-C", "target-feature=-reference-types",
-    "Cargo","assertions";
+    "Cargo","assertions"
 ]
