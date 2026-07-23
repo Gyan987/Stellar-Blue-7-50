@@ -142,6 +142,9 @@ Below are the transactions executed on the Escrow Smart Contract:
 | Project #56 | `GA4RE7PD...ZZKTQLLM` | Client | `fund_milestone` | `bfaa708ff2...` | [View Transaction](https://stellar.expert/explorer/testnet/tx/bfaa708ff2bfded21f36ddaa19e970705352ae6380c82a841d8153bac4fce2df) |
 | Project #56 | `GBJWIMQL...ONGJBGPS` | Freelancer | `submit_milestone` | `3d96878e7a...` | [View Transaction](https://stellar.expert/explorer/testnet/tx/3d96878e7ab701eef15b240d6adff87e436ee57c55b2ef3efe96c664cf3d552e) |
 | Project #56 | `GA4RE7PD...ZZKTQLLM` | Client | `approve_milestone` | `f6158b0571...` | [View Transaction](https://stellar.expert/explorer/testnet/tx/f6158b0571118a1f6604e6654ece0b165d8865819893eb6b6e77a077ebb0c653) |
+| Project #53 | `GAGYANP7...7PM6YJXQ` | Client | `create_project` | `e5b0db598f...` | [View Transaction](https://stellar.expert/explorer/testnet/tx/e5b0db598f098324f6037d5289fa4028deb29ab44c8c06d3364bf81188e92385) |
+| Project #53 | `GAGYANP7...7PM6YJXQ` | Client | `fund_milestone` | `59bd39a331...` | [View Transaction](https://stellar.expert/explorer/testnet/tx/59bd39a3316f156fc30d84f82d9134a8c79716b47feab48f2956f7033572268b) |
+| Project #53 | `GATXYK3Q...2DDG3MK2` | Freelancer | `submit_milestone` | `41851b3ce5...` | [View Transaction](https://stellar.expert/explorer/testnet/tx/41851b3ce555590133f76cccd9ac3026d4c25cdd9dcf51c672423dee632209a0) |
 
 ---
 *Simulation completed at: 2026-07-10T16:50:56.328Z*
