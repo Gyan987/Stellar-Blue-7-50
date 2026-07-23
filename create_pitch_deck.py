@@ -585,6 +585,7 @@ p_c4.font.size = Pt(14)
 p_c4.font.color.rgb = TEXT_MUTED
 p_c4.space_before = Pt(10)
 
+ 
 # Save Presentation
 prs.save("StellarEscrow_Pitch_Deck.pptx")
 print("Pitch deck saved successfully as StellarEscrow_Pitch_Deck.pptx")
