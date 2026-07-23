@@ -38,6 +38,8 @@ jobs:
         run: |
           cargo build --target wasm32-unknown-unknown --release
           stellar contract optimize --wasm target/wasm32-unknown-unknown/release/escrow_contract.wasm
+        name: Install Stellar CLI
+        run: cargo binstall --no-confirm stellar-cli
       # Deploy the optimized contract
       - name: Deploy to Testnet
         run: |
