@@ -14,7 +14,7 @@ Designed for freelancers, independent contractors, small agencies, and clients, 
 ---
 
 ## 🌐 Live Demo
-* **All Stellar Expert Transaction Link :https://stellar.expert/explorer/testnet/contract/CABRYRJWNR5WVI34LSA667LTXG7NHIRJOAZASX5MTFJK5JHCAD7ILETJ
+* **All Stellar Expert Transaction Link** :https://stellar.expert/explorer/testnet/contract/CABRYRJWNR5WVI34LSA667LTXG7NHIRJOAZASX5MTFJK5JHCAD7ILETJ
 
 *   **Live Web Application**: [stellar-escrowlevel5-0.vercel.app](https://stellar-escrowlevel5-0.vercel.app/)
 *   **Video Demonstration**: [Watch Live Demo](https://youtu.be/9TsWzXOsYuQ) *(Level 5 walkthrough of key user flows)*
