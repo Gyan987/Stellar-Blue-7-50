@@ -20,6 +20,8 @@ debug = false
 panic = "abort"
 lto = true
 codegen-units = 1
+edition = "2021"
+publish = false
 
 [profile.release-with-logs]
 inherits = "release"
