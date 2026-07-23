@@ -536,6 +536,14 @@ draw_card(slide11, Inches(6.8), Inches(2.0), Inches(5.5), Inches(4.5),
               "• Stellar Network Alignment: Drive transaction volume and anchor utility on Stellar Testnet and Mainnet."
           ], 
           BORDER_COLOR)
+draw_card(slide11, Inches(6.8), Inches(2.0), Inches(5.5), Inches(4.5), 
+          "Ecosystem Integration Opportunities", 
+          [
+              "• Invoice Software API: Plug trustless escrows directly into standard billing systems.",
+              "• Freelance Marketplace Plugins: Add 'Pay via StellarEscrow' buttons to external platforms.",
+              "• Stellar Network Alignment: Drive transaction volume and anchor utility on Stellar Testnet and Mainnet."
+          ], 
+          BORDER_COLOR)
 
 
 # ----------------- SLIDE 12: Closing / Contact Slide -----------------
