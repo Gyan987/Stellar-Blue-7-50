@@ -97,6 +97,17 @@ app.get('/api/feedback', (req, res) => {
   });
 });
 
+app.post('/api/feedback', (req, res) => {
+  const { rating, comment, walletAddress } = req.body;
+
+  if (!rating || typeof rating !== 'number' || rating < 1 || rating > 5) {
+    return res.status(400).json({ error: 'Invalid rating. Must be a number between 1 and 5.' });
+  }
+
+  if (!comment || typeof comment !== 'string' || comment.trim() === '') {
+    return res.status(400).json({ error: 'Comment is required and cannot be empty.' });
+  }
+
 // Start server
 app.listen(PORT, () => {
   console.log(`Feedback backend server running on port ${PORT}`);
